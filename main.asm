@@ -1,5 +1,5 @@
 .data
-
+#commit test
 input_message: .asciiz "w - up\na - left\ns - down\nd - right\nr - reveal\nf - flag\nEnter your action: "
 file_error: .asciiz "The file provided is either missing or in an invalid format."
 invalid_action: .asciiz "The action performed is invalid."
